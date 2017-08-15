@@ -1,4 +1,4 @@
-# Project Title
+# SmartMeasure
 This project contains for a servo motor stabilizer which has a master and slave.
 
 ## Getting Started
